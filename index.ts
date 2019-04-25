@@ -1,4 +1,4 @@
 export * from './src/Decorators';
 export * from './src/Types';
-
-export { Db } from 'mongodb';
+export * from './src/baseRepository';
+export * from './src/mongoHelper';
