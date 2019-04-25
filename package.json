@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gonzaonisimchuk/repository/issues"
   },
-  "homepage": "https://github.com/gonzaonisimchuk/repository#readme"
+  "homepage": "https://github.com/gonzaonisimchuk/repository#readme",
+  "dependencies": {
+    "mongodb": "^3.2.3"
+  }
 }
