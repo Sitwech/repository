@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "watch": true,
+    "lib": [  /* Specify library files to be included in the compilation. */
+      "es2017",
+      "dom",
+      "esnext.asynciterable"
+    ],
+    "declaration": true,
+    "outDir": "lib", 
+    "strict": true,
+    "esModuleInterop": true,
+    "typeRoots": [  /* List of folders to include type definitions from. */
+      "node_modules/@types"
+    ], 
+    "experimentalDecorators": true, 
+    "emitDecoratorMetadata": true,
+    "sourceMap": true // add
+    // "exclude": [  
+    //   ".vscode",
+    //   "node_modules",
+    //   "dist"
+    // ]
+  }
+}

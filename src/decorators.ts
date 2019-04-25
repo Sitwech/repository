@@ -1,5 +1,5 @@
 import { COLLECTION_KEY, CollectionProps, POST_KEY, PRE_KEY } from './types';
-
+require('reflect-metadata')
 /**
  * Indicate the class represents a collection
  *

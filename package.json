@@ -16,7 +16,13 @@
     "url": "https://github.com/gonzaonisimchuk/repository/issues"
   },
   "homepage": "https://github.com/gonzaonisimchuk/repository#readme",
-  "dependencies": {
-    "mongodb": "^3.2.3"
+  "dependencies": {    
+    "mongodb": "^3.2.3",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@types/reflect-metadata": "^0.1.0",
+    "@types/mongodb": "^3.1.25",
+    "typescript": "^3.4.5"
   }
 }
