@@ -1,8 +1,8 @@
 {
   "name": "repository",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
-  "main":"./lib/index.js",
+  "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
     "url": "https://github.com/gonzaonisimchuk/repository/issues"
   },
   "homepage": "https://github.com/gonzaonisimchuk/repository#readme",
-  "dependencies": {    
+  "dependencies": {
     "mongodb": "^3.2.3",
     "reflect-metadata": "^0.1.13",
     "@types/mongodb": "^3.1.25"

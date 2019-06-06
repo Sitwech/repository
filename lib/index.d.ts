@@ -1,5 +1,5 @@
 import "reflect-metadata";
-export * from './src/Decorators';
-export * from './src/Types';
+export * from './src/decorators';
+export * from './src/types';
 export * from './src/baseRepository';
 export * from './src/mongoHelper';
